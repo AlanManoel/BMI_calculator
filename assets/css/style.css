@@ -151,3 +151,12 @@ main img {
         margin-right: 0px;
     }
 }
+@media (max-width: 340px){
+    main img {
+        width: 203px;
+        height: 164px;
+    }
+    .conteinter-calculadora {
+        width: 250px;
+    }
+}
